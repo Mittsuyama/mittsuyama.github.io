@@ -1,2 +1,5 @@
 .vscode
 .DS_Store
+.vite/node_modules
+.vite/dist
+.vite/.vscode
