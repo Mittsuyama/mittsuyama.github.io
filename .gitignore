@@ -2,4 +2,5 @@
 .DS_Store
 .vite/node_modules
 .vite/dist
+.vite/dist.zip
 .vite/.vscode
